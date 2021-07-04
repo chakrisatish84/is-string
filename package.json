@@ -1,0 +1,22 @@
+{
+  "name": "@chakrisatish/is-string",
+  "version": "1.0.0",
+  "description": "Is the value string?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chakrisatish84/is-string.git"
+  },
+  "keywords": [
+    "isstring"
+  ],
+  "author": "sateesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chakrisatish84/is-string/issues"
+  },
+  "homepage": "https://github.com/chakrisatish84/is-string#readme"
+}
